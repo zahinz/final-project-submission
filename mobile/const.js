@@ -1,0 +1,1 @@
+export const API_LOCALHOST = 'http://3956-49-124-200-218.ngrok.io/api'
